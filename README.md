@@ -34,7 +34,7 @@ int main()
 
 >a quote
 
-## [Image](1.jpg)
+## [Image](w.jpg)
 ## [web](https://img2.baidu.com/it/u=3211231239,1842853752&fm=26&fmt=auto&gp=0.jpg)
 
 ##  [link](xyxy.md)
