@@ -39,4 +39,3 @@ int main()
 
 ##  [link](xyxy.md)
 
-~~lixinagyi is beautiful~~
