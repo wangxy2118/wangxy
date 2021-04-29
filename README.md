@@ -40,7 +40,7 @@ int main()
 
 ### **粗体**
 ## <img src="w.jpg" width=45%>
-## <img sr"https://img2.baidu.com/it/u=3211231239,1842853752&fm=26&fmt=auto&gp=0.jpg" width=45%>
+## <img src="https://img2.baidu.com/it/u=3211231239,1842853752&fm=26&fmt=auto&gp=0.jpg" width=45%>
 
 ##  [link](xyxy.md)
 
